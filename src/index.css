@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+* {
+  font-family: 'Prompt', sans-serif;
+}
+
+@theme {
+  --color-primary: #BBDCE5;
+  --color-secondary: #ECEEDF;
+  --color-tertiary: #D9C4B0;
+  --color-quaternary: #CFAB8D;
+  --color-font-color: #0046FF;
+  --color-font-color-secondary: #00809D;
+}
